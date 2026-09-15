@@ -1,3 +1,7 @@
+## Parcours français
+
+Ce dépôt contient un parcours documentaire en français sur les contrats Aerodrome : [lire le sommaire](docs/fr/README.md).
+
 # Protocol
 
 All contracts for the Protocol, an AMM on EVMs inspired by Solidly.
